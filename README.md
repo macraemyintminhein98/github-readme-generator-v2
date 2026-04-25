@@ -1,2 +1,3 @@
-# github-readme-generator-v2
-A web application that generates professional, customizable GitHub README.md files quickly, includin
+# GitHub README.md Generator
+
+A simple web application to quickly generate professional and customizable GitHub README.md files. Input your project details and get a well-formatted markdown file ready for your repository.
